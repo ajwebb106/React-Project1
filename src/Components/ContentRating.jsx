@@ -16,3 +16,6 @@ class ContentRating extends Component {
 }
 
 export default ContentRating;
+cd content_rating
+npm install
+npm run preview
